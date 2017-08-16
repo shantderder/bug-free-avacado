@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int y = meow(3);  /* Use the function here */
+    int y = meow(4);  /* Use the function here */
     printf("%d\n", y);
     return 0;
 }
