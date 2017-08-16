@@ -1,11 +1,13 @@
 
-## bug-free-avacado ##
-## No bugs in this avacado ##
+##      bug-free-avacado        ##
+##   No bugs in this avacado    ##
 
-/* -- ONLY SEED -- */
+/* --------- ONLY SEED -------- 
 
-/* ---- READ VERY CAREFULY ---- */
+   ---- READ VERY CAREFULY ---- */
 
-## --------- GOODJOB --------- ##
+## --------- GOOD JOB --------- ##
 
 /* YOU'RE VERY GOOD AT READING */
+
+###  compile, run, get a "9"   ###
