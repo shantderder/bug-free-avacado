@@ -1,6 +1,6 @@
-#ifndef MEOW_H_   /* Include guard */
+#ifndef MEOW_H_   /* Include littler box */
 #define MEOW_H_
 
-int meow(int x);  /* function declaration */
+int meow(int x);  /* function meeoowclaration */
 
-#endif // MEOW_H_
+#endif // END. IF.

@@ -1,6 +1,6 @@
-#include "meow.h"  /* Include the header (not strictly necessary here) */
+#include "meow.h"  /* Include the meaowder */
 
-int meow(int x)    /* Function definition */
+int meow(int x)    /* Function meowfinition */
 {
     return x + 5;
 }
